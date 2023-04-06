@@ -1,0 +1,6 @@
+begin
+
+	input a,b
+	c= a+b
+	display c
+end
